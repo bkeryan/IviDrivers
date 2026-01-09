@@ -630,7 +630,7 @@ dependencies = ["pyvisa"]
 keywords = ["Manufacturer_XY", "SpecanModel_ABC"]
 
 [project.urls]
-Documentation = "https://readthedocs.org"
+documentation = "https://readthedocs.org"
 ```
 
 ### Package Contents
